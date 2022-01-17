@@ -27,4 +27,9 @@ h2{
  position: absolute;
  padding-top:20px;
 }
-
+.imagenCarrito img{
+  width: 40px !important;
+  height: 40px !important;
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
